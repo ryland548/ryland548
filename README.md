@@ -13,6 +13,7 @@
   <img src="https://developer.apple.com/licensing-trademarks/images/mac-logo.svg" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="65">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="65">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="65">
 </div>
 
 
