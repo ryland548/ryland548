@@ -26,4 +26,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="65"> 
 </div>
 
+<br>
+
 Overall, Im great with software : )
