@@ -1,4 +1,4 @@
-Hello! I am Ryland. Here I code c++ projects such as Tetris and OpenGL Projects.
+<h2>Hello! I am Ryland. Here I code c++ projects such as Tetris and OpenGL Projects.</h2>
 
 <h1>EXPERIENCED Skills</h1>
 
