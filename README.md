@@ -25,3 +25,5 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Codicons_%E2%80%93_github-inverted.svg/1920px-Codicons_%E2%80%93_github-inverted.svg.png" width="65"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="65"> 
 </div>
+
+Overall, Im great with software : )
