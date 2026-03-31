@@ -10,6 +10,6 @@ Hello! I am Ryland. Here I code c++ projects such as Tetris and OpenGL Projects.
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" width="130">
   <img src="https://developer.apple.com/licensing-trademarks/images/mac-logo.svg" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="65">
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Capcut-logo.svg" width="140">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Capcut-logo.svg" width="300">
 </div>
 
