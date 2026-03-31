@@ -1,5 +1,7 @@
 <h2>Hello! I am Ryland. Here I code c++ projects such as Tetris and OpenGL Projects.</h2>
 
+<p>I primarily code in C++ but I am also strong in Python and HTML, CSS and JS. I have extensive knowledge in C++</p>
+
 <h1>EXPERIENCED Skills</h1>
 
 <div>
