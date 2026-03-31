@@ -21,4 +21,5 @@
 <h1>PROFICIENT</h1>
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/CMake_logo.svg" width="65"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Codicons_%E2%80%93_github-inverted.svg/1920px-Codicons_%E2%80%93_github-inverted.svg.png" width="65"> 
 </div>
