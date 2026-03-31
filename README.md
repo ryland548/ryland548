@@ -1,6 +1,6 @@
 <h2>Hello! I am Ryland. Here I code c++ projects such as Tetris and OpenGL Projects.</h2>
 
-<p>I primarily code in C++ but I am also strong in Python and HTML, CSS and JS. I have extensive knowledge in C++. I undertsand how to use a MAC. I can also VIDEO EDIT and I am familiar with WINDOWS.</p>
+<p>I primarily code in C++ but I am also strong in Python and HTML, CSS and JS. I have extensive knowledge in C++. I undertsand how to use a MAC. I can also VIDEO EDIT and I am familiar with WINDOWS. I also have extensive knowledge in Adobe Illustrator and Adobe Premiere Pro. I can do web design and design any websites using any tools whether its coding it myself from scratch or using WIX or Google Sites, I can do it.</p>
 
 <h1>EXPERIENCED Skills</h1>
 
@@ -15,3 +15,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="65">
 </div>
 
+
+<br><br><br>
